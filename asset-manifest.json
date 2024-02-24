@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/blockchain-calpoly/static/css/main.e6c13ad2.css",
+    "main.js": "/blockchain-calpoly/static/js/main.cc73d5cc.js",
+    "static/js/208.c8510744.chunk.js": "/blockchain-calpoly/static/js/208.c8510744.chunk.js",
+    "static/js/293.8e66be22.chunk.js": "/blockchain-calpoly/static/js/293.8e66be22.chunk.js",
+    "static/js/917.c6587198.chunk.js": "/blockchain-calpoly/static/js/917.c6587198.chunk.js",
+    "static/js/516.f58dc170.chunk.js": "/blockchain-calpoly/static/js/516.f58dc170.chunk.js",
+    "static/js/946.e78bab8f.chunk.js": "/blockchain-calpoly/static/js/946.e78bab8f.chunk.js",
+    "static/js/160.b9f9d4d2.chunk.js": "/blockchain-calpoly/static/js/160.b9f9d4d2.chunk.js",
+    "static/js/453.b8e3504e.chunk.js": "/blockchain-calpoly/static/js/453.b8e3504e.chunk.js",
+    "index.html": "/blockchain-calpoly/index.html",
+    "main.e6c13ad2.css.map": "/blockchain-calpoly/static/css/main.e6c13ad2.css.map",
+    "main.cc73d5cc.js.map": "/blockchain-calpoly/static/js/main.cc73d5cc.js.map",
+    "208.c8510744.chunk.js.map": "/blockchain-calpoly/static/js/208.c8510744.chunk.js.map",
+    "293.8e66be22.chunk.js.map": "/blockchain-calpoly/static/js/293.8e66be22.chunk.js.map",
+    "917.c6587198.chunk.js.map": "/blockchain-calpoly/static/js/917.c6587198.chunk.js.map",
+    "516.f58dc170.chunk.js.map": "/blockchain-calpoly/static/js/516.f58dc170.chunk.js.map",
+    "946.e78bab8f.chunk.js.map": "/blockchain-calpoly/static/js/946.e78bab8f.chunk.js.map",
+    "160.b9f9d4d2.chunk.js.map": "/blockchain-calpoly/static/js/160.b9f9d4d2.chunk.js.map",
+    "453.b8e3504e.chunk.js.map": "/blockchain-calpoly/static/js/453.b8e3504e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cc73d5cc.js"
+  ]
+}
